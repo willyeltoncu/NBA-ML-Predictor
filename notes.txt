@@ -1,3 +1,10 @@
 https://www.kaggle.com/datasets/nathanlauga/nba-games?resource=download
 
 This is the dataset I will use.
+
+
+https://www.kaggle.com/code/mdabbert/tutorial-1-train-a-model-to-predict-future-events
+^^
+simple model using sklern like the one above is what i will use.
+
+For training / testing data ratio I will train the model with 80% of the data and 20% to test.  I split this data randomly.
